@@ -535,3 +535,5 @@ The postmortem is a process that should take place following an incident. It’s
 Blamelessness. 
 Postmortems need to be blameless and this value should be remided at the beginning of every postmortem. This is the best way to ensure that people are playing the game to find the root cause and not trying to hide their possible faults.</b></details>
 
+
+
